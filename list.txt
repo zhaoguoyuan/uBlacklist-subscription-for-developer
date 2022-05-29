@@ -33,4 +33,4 @@
 *://*.awesomeopensource.com/*
 *://*.it-mure.jp.net/*
 *://try2explore.com/*
-*://ww.codegrepper.com/*
+*://www.codegrepper.com/*
