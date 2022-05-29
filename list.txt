@@ -15,7 +15,7 @@
 *://*.codeflow.site/*
 *://*.ojit.com/*
 *://*.366service.com/*
-/it-swarm.*/
+*:///it-swarm.*/
 *://*.qastack.jp/*
 *://*.coder.work/*
 *://*.qapicks.com/*
@@ -33,3 +33,4 @@
 *://*.awesomeopensource.com/*
 *://*.it-mure.jp.net/*
 *://try2explore.com/*
+*://ww.codegrepper.com/*
